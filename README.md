@@ -1,4 +1,4 @@
-# CS 112 Computer Programming 1 - Projects Repository
+# CS 112 Computer Programming 1 - Projects Exercises Repository
 
 ## Description
 
